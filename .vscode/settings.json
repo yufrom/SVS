@@ -1,0 +1,5 @@
+{
+    "phpcs.enable": true,
+    "phpcs.standard": "${workspaceRoot}/setting/phpcs_laravel.xml",
+    "files.trimTrailingWhitespace": true
+}
